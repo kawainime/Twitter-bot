@@ -2,7 +2,7 @@ name: Daily Question
 
 on:
   schedule:
-    - cron: "15 7 * * *" # Run at 9:15 AM CET
+    - cron: "*/5 * * * *" # Run at 9:15 AM CET
 
   # Manually trigger the workflow
   workflow_dispatch:
