@@ -13,19 +13,19 @@ const { sendTweet } = require("./lib/tweetApi2")
  */
 const init = async () => {
   try {
-    const jsonString = fs.readFileSync("./data/questions.json")
+    const jsonString = fs.readFileSync("./data/questions_translated.json")
     const { questions, index } = JSON.parse(jsonString)
     const tweet = questions[index]
     if (!tweet) {
       fs.writeFileSync(
-        "./data/questions.json",
+        "./data/questions_translated.json",
         JSON.stringify({ index: 0, questions })
       )
       return init()
     }
     await sendTweet(tweet)
     fs.writeFileSync(
-      "./data/questions.json",
+      "./data/questions_translated.json",
       JSON.stringify({ index: index + 1, questions })
     )
   } catch (e) {
