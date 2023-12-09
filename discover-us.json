@@ -7,7 +7,7 @@
           "cardItem": {
             "id": "86328792343818240",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/b31a14259e76a15b8eb3e4283ece704d~c5_100x100.jpeg?x-expires=1702321200&x-signature=I%2FUUk0NjENs421QiD56TF3HsH%2Bo%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/b31a14259e76a15b8eb3e4283ece704d~c5_100x100.jpeg?x-expires=1702321200&x-signature=ocmBnI%2Bj3pP%2BJm%2BHSUDkSSAdsjY%3D",
             "title": "tate mcrae",
             "subTitle": "@tatemcrae",
             "description": "i’m 20. think later out now",
@@ -397,7 +397,7 @@
           "cardItem": {
             "id": "132667022575992832",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4bde143e38feb91ee52b8f9e893fd58f~c5_100x100.jpeg?x-expires=1702321200&x-signature=Mwnsk1McG9eF%2B9S4H4X6%2FawdCiA%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/4bde143e38feb91ee52b8f9e893fd58f~c5_100x100.jpeg?x-expires=1702321200&x-signature=AF8AELB5P78ycIMZGFGd883ID2s%3D",
             "title": "J Balvin",
             "subTitle": "@jbalvin",
             "description": "AMIGOS OUT NOW ⚡️ ⬇️",
@@ -620,7 +620,7 @@
               "userId": "6693590239291917318",
               "secUid": "MS4wLjABAAAAG3YiXquuv2-O3z4OJpF1-cVHMKpx_JYmOsprbBrmY_MolxRsfK-gkZ4evQpTptGk",
               "relation": 0,
-              "video": 120,
+              "video": 121,
               "following": 0,
               "heart": 44800000,
               "digg": 101
@@ -631,7 +631,7 @@
           "cardItem": {
             "id": "6611099612067856390",
             "type": 2,
-            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/390f98f9b9dc87ae3656f3c1ab222ca7~c5_100x100.jpeg?x-expires=1702321200&x-signature=A%2BnmzF2wLLBayw9ZuHAHGjV3e30%3D",
+            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/390f98f9b9dc87ae3656f3c1ab222ca7~c5_100x100.jpeg?x-expires=1702321200&x-signature=YwE08uwX31IkX1biwj671aAW6UQ%3D",
             "title": "JLO",
             "subTitle": "@jlo",
             "description": "This Is Me…Now 💚 Pre-Save Can’t Get Enough",
@@ -683,7 +683,7 @@
           "cardItem": {
             "id": "7050076999289521158",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310577986187558954~c5_100x100.jpeg?x-expires=1702321200&x-signature=tZY%2FLwnYlGTs6q7732XRUUaImLs%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/7310577986187558954~c5_100x100.jpeg?x-expires=1702321200&x-signature=gjngvhUrcA%2F3ajmAkzEBckC%2Bz90%3D",
             "title": "Justin Timberlake",
             "subTitle": "@justintimberlake",
             "description": "Jessica Biel’s boyfriend",
@@ -761,7 +761,7 @@
           "cardItem": {
             "id": "6621955904844021765",
             "type": 2,
-            "cover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1702321200&x-signature=LpkuSV9VzcyYhnsXQRwk%2BR37YRk%3D",
+            "cover": "https://p19-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/82b999983938bc385011f8b85d7ac3bb~c5_100x100.jpeg?x-expires=1702321200&x-signature=nfMMlvzxg1G2zYZ9N%2FimVmaMXz8%3D",
             "title": "Rihanna",
             "subTitle": "@rihanna",
             "description": "",
@@ -1062,13 +1062,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/oAkS3emtDIGIg60tslbnsAmCZAxbknQmBAGeBR.jpeg",
             "title": "The Assignment",
-            "subTitle": "589.5K videos",
+            "subTitle": "589.6K videos",
             "description": "Tay Money",
             "link": "/music/The-Assignment-6990410706927536902",
             "extraInfo": {
               "musicId": "6990410706927536902",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oACzFe3emebx7aPGQGDnZqbsobTOAq99DgxjDz",
-              "posts": 589500
+              "posts": 589600
             }
           }
         },
