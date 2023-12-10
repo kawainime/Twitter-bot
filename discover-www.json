@@ -838,14 +838,14 @@
             "type": 3,
             "cover": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/edceef9195bb64a48bc57effaa63894c.png",
             "title": "#PetsOfTikTok",
-            "subTitle": "109.4B views",
+            "subTitle": "109.3B views",
             "description": "Here's to all the #PetsOfTikTok.",
             "link": "/tag/PetsOfTikTok",
             "round": false,
             "playToken": "",
             "keyToken": "",
             "extraInfo": {
-              "views": 109400000000,
+              "views": 109300000000,
               "challengeId": "1591463963924482",
               "challengeName": "PetsOfTikTok"
             }
@@ -1157,13 +1157,13 @@
             "keyToken": "",
             "cover": "https://p16-sg.tiktokcdn.com/aweme/100x100/tos-alisg-v-2774/7af41feeb9d8449094a0e6c437e87db5.jpeg",
             "title": "真夜中のドア〜stay with me",
-            "subTitle": "428.7K videos",
+            "subTitle": "428.6K videos",
             "description": "松原みき",
             "link": "/music/真夜中のドア〜stay-with-me-6878744350931634950",
             "extraInfo": {
               "musicId": "6878744350931634950",
               "playUrl": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/oIDD6GTCeh5DaP8zXfUEb5FgqPAbpM05jVeIkn",
-              "posts": 428700
+              "posts": 428600
             }
           }
         }
